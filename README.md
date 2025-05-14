@@ -1,4 +1,3 @@
-# Projeto-alura-0
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -9,9 +8,10 @@
     <link rel="stylesheet" href="style.css">
     <title>portifolho do Josiano</title>
 </head>
+
 <body>
     <header class="container text-center">
-        
+        <img src="img/avatar-perfil.png" alt="Josiano" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Josiano</p>
         <h1>Eu estudo programação</h1>
         <p>Sou estudante do Elza facca martins bonilha, não tenho nenhum trabalho, eu gosto de jogar videogames, ler livros e assistir filmes
